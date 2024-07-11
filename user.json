@@ -1,0 +1,112 @@
+[
+    {
+        "id": 1,
+        "name": "John",
+        "surname": "Doe",
+        "nickname": "Johnny",
+        "age": 30,
+        "sex": "Male",
+        "email": "john.doe@example.com",
+        "phone_number": "123-456-7890",
+        "address": "123 Main St"
+    },
+    {
+        "id": 2,
+        "name": "Jane",
+        "surname": "Smith",
+        "nickname": "Janey",
+        "age": 25,
+        "sex": "Female",
+        "email": "jane.smith@example.com",
+        "phone_number": "234-567-8901",
+        "address": "456 Oak St"
+    },
+    {
+        "id": 3,
+        "name": "Michael",
+        "surname": "Brown",
+        "nickname": "Mike",
+        "age": 40,
+        "sex": "Male",
+        "email": "michael.brown@example.com",
+        "phone_number": "345-678-9012",
+        "address": "789 Pine St"
+    },
+    {
+        "id": 4,
+        "name": "Emily",
+        "surname": "Davis",
+        "nickname": "Em",
+        "age": 22,
+        "sex": "Female",
+        "email": "emily.davis@example.com",
+        "phone_number": "456-789-0123",
+        "address": "101 Maple St"
+    },
+    {
+        "id": 5,
+        "name": "Daniel",
+        "surname": "Wilson",
+        "nickname": "Dan",
+        "age": 35,
+        "sex": "Male",
+        "email": "daniel.wilson@example.com",
+        "phone_number": "567-890-1234",
+        "address": "202 Birch St"
+    },
+    {
+        "id": 6,
+        "name": "Sophia",
+        "surname": "Taylor",
+        "nickname": "Sophie",
+        "age": 28,
+        "sex": "Female",
+        "email": "sophia.taylor@example.com",
+        "phone_number": "678-901-2345",
+        "address": "303 Elm St"
+    },
+    {
+        "id": 7,
+        "name": "James",
+        "surname": "Anderson",
+        "nickname": "Jim",
+        "age": 33,
+        "sex": "Male",
+        "email": "james.anderson@example.com",
+        "phone_number": "789-012-3456",
+        "address": "404 Cedar St"
+    },
+    {
+        "id": 8,
+        "name": "Olivia",
+        "surname": "Thomas",
+        "nickname": "Liv",
+        "age": 27,
+        "sex": "Female",
+        "email": "olivia.thomas@example.com",
+        "phone_number": "890-123-4567",
+        "address": "505 Walnut St"
+    },
+    {
+        "id": 9,
+        "name": "David",
+        "surname": "Jackson",
+        "nickname": "Dave",
+        "age": 45,
+        "sex": "Male",
+        "email": "david.jackson@example.com",
+        "phone_number": "901-234-5678",
+        "address": "606 Spruce St"
+    },
+    {
+        "id": 10,
+        "name": "Isabella",
+        "surname": "Martin",
+        "nickname": "Bella",
+        "age": 19,
+        "sex": "Female",
+        "email": "isabella.martin@example.com",
+        "phone_number": "012-345-6789",
+        "address": "707 Aspen St"
+    }
+]

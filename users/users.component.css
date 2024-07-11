@@ -1,0 +1,27 @@
+/* src/app/users/users.component.css */
+
+.table {
+    width: 100%;
+    border-collapse: collapse;
+    background-color: #f0f0f0; /* สีพื้นหลังของตาราง */
+  }
+  
+  .table th, .table td {
+    border: 1px solid #ccc;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  .table th {
+    background-color: #4CAF50; /* สีพื้นหลังของหัวตาราง */
+    color: white; /* สีข้อความในหัวตาราง */
+  }
+  
+  .table td {
+    background-color: #f2f2f2; /* สีพื้นหลังของเนื้อของตาราง */
+  }
+  
+  .table tr:nth-child(even) {
+    background-color: #f2f2f2; /* สลับสีพื้นหลังของแถวเพื่อทำให้ตารางดูสวยงาม */
+  }
+  

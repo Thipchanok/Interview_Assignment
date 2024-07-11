@@ -1,0 +1,32 @@
+<!-- src/app/app.component.html -->
+
+<h1>Welcome to Program</h1>
+
+<table>
+    <thead>
+      <tr>
+        <th>ID</th>
+        <th>Name</th>
+        <th>Surname</th>
+        <th>Nickname</th>
+        <th>Age</th>
+        <th>Sex</th>
+        <th>Email</th>
+        <th>Phone Number</th>
+        <th>Address</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *NgFor="let user of users">
+        <td>{{ user.id }}</td>
+        <td>{{ user.name }}</td>
+        <td>{{ user.surname }}</td>
+        <td>{{ user.nickname }}</td>
+        <td>{{ user.age }}</td>
+        <td>{{ user.sex }}</td>
+        <td>{{ user.email }}</td>
+        <td>{{ user.phone_number }}</td>
+        <td>{{ user.address }}</td>
+      </tr>
+    </tbody>
+  </table>
